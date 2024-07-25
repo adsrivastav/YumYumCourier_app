@@ -42,7 +42,7 @@ To get a local copy up and running, follow these simple steps:
 
  npm install
 
-##To start the development server, run:
+## To start the development server, run:
 
  npm start
 This will start the application in development mode. Open http://localhost:3000 to view it in the browser.
