@@ -34,15 +34,15 @@ To get a local copy up and running, follow these simple steps:
 
 
 
-##Navigate to the project directory
+## Navigate to the project directory
 
 
-cd YumYumCourier_app
-Install dependencies
+## cd YumYumCourier_app
+## Install dependencies
 
-##npm install
-Usage
+## npm install
+
 To start the development server, run:
 
-##npm start
-This will start the application in development mode. Open http://localhost:3000 to view it in the browser.
+## npm start
+## This will start the application in development mode. Open http://localhost:3000 to view it in the browser.
