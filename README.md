@@ -34,20 +34,15 @@ To get a local copy up and running, follow these simple steps:
 
 
 
-Navigate to the project directory
+##Navigate to the project directory
 
-sh
-Copy code
+
 cd YumYumCourier_app
 Install dependencies
 
-sh
-Copy code
-npm install
+##npm install
 Usage
 To start the development server, run:
 
-sh
-Copy code
-npm start
+##npm start
 This will start the application in development mode. Open http://localhost:3000 to view it in the browser.
