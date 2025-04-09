@@ -4,7 +4,7 @@ YumYumCourier is a food delivery application built using React.js and Tailwind C
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://main--admirable-liger-06c709.netlify.app/).
+Check out the live demo of the application [here](https://yum-yum-courier-app.vercel.app/).
 
 
 
